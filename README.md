@@ -1,5 +1,10 @@
-### Hi there 👋
 
+
+Hello my name is Abdurrahman Akca. I am currently a computer science student at RWTH Aachen University.
+
+I want to show my experience and knowledge about programming on this github page. All repositories beginning with "CV" are not for use but rather to show my competence. They  include many LeetCode Problems which I mostly solved in java but I also used other languages (C). They should also prove my problem solving skills.
+
+I am currently working on a project to manage bills. It's also one of my CV projects. For the database I use MySQL and the backend Java with the framework Spring Boot. The Frontend I think about using Typescript with Angular.
 <!--
 **aa1993/aa1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
